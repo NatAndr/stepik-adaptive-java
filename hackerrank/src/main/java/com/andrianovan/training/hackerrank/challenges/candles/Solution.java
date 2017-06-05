@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.challenges.candles;
+package com.andrianovan.training.hackerrank.challenges.candles;
 
 import java.util.Scanner;
 

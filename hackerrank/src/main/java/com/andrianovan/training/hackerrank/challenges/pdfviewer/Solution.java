@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.challenges.pdfviewer;
+package com.andrianovan.training.hackerrank.challenges.pdfviewer;
 
 import java.util.HashMap;
 import java.util.Map;

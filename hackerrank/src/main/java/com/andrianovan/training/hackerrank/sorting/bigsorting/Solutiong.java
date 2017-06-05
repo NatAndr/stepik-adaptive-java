@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.sorting.bigsorting;
+package com.andrianovan.training.hackerrank.sorting.bigsorting;
 
 import java.util.Arrays;
 import java.util.Scanner;

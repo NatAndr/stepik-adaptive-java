@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.challenges.camelcase;
+package com.andrianovan.training.hackerrank.challenges.camelcase;
 
 import java.util.Scanner;
 

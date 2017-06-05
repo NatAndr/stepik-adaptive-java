@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.challenges.catsandmouse;
+package com.andrianovan.training.hackerrank.challenges.catsandmouse;
 
 import java.util.Scanner;
 

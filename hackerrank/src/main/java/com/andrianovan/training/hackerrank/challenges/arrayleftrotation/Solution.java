@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.challenges.arrayleftrotation;
+package com.andrianovan.training.hackerrank.challenges.arrayleftrotation;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.challenges.staircase;
+package com.andrianovan.training.hackerrank.challenges.staircase;
 
 import java.util.Scanner;
 

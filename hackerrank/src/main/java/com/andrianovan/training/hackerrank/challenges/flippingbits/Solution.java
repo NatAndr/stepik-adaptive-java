@@ -1,4 +1,4 @@
-package java.com.andrianovan.training.hackerrank.challenges.flippingbits;
+package com.andrianovan.training.hackerrank.challenges.flippingbits;
 
 import java.util.Scanner;
 
